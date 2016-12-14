@@ -83,5 +83,11 @@ div #sushiDiv   {
   position:relative;
 }
 
+@media (min-width: 768px) {
+div #collapsable-nav.navbar-collapse.in {
+  background-color: #ea882c;
+}
+}
+
 
 }
